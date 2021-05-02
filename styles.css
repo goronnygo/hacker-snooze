@@ -1,0 +1,19 @@
+.navbars li{
+    display: inline;
+    list-style: none;
+    text-decoration: none;
+}
+
+.container-fluid{
+    font-family: 'Times New Roman';
+    background-color: grey;
+    color: black;
+}
+
+.navbar-brand{
+    color: green;
+}
+
+a{
+    color: green;
+}
